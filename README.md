@@ -1,5 +1,5 @@
 ## exomiser-clone
-Message from @snewhouse: I have this here for convenience as https://exomiser.github.io/Exomiser/ is a little out of date.
+Message from @snewhouse: I have this here for convenience as https://exomiser.github.io/Exomiser/ installation instructions is a little out of date.
 
 This is the README.md from http://data.monarchinitiative.org/exomiser/ where the latest version of Exomiser is hosted.
 
