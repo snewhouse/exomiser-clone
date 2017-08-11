@@ -13,6 +13,8 @@ exomiser-cli-8.0.0-distribution.zip                10-Aug-2017 08:52           2
 exomiser-cli-8.0.0.sha256                          10-Aug-2017 08:52                 196
 ```
 
+See [Installation](#Installation) for getting sofwtare and then the [Usage](#usage) section for info on running an analysis.
+
 All credit goes to the orginal developers.
 
 **citations**
@@ -22,7 +24,7 @@ All credit goes to the orginal developers.
 *A Whole-Genome Analysis Framework for Effective Identification of Pathogenic Regulatory Variants in Mendelian Disease. 
 The American Journal of Human Genetics, 99(3), 595–606. http://doi.org/10.1016/j.ajhg.2016.07.005*
 
-This tool rocks!
+This tool rocks! :metal:
 
 ********
 
