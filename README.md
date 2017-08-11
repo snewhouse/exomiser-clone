@@ -1,4 +1,11 @@
-# exomiser-clone
+## exomiser-clone
+SJN: I have this here for convenience as https://exomiser.github.io/Exomiser/ is a little out of date.
+
+Here is the README.md from http://data.monarchinitiative.org/exomiser/ where the latest version of Exomiser is hosted.
+
+All credit goes to the orginal developers.
+
+*Smedley et al., A Whole-Genome Analysis Framework for Effective Identification of Pathogenic Regulatory. Variants in Mendelian Disease, The American Journal of Human Genetics (2016), http://dx.doi.org/10.1016/j.ajhg.2016.07.005*
 
 # The Exomiser - A Tool to Annotate and Prioritize Disease Variants: Command Line Executable
 
