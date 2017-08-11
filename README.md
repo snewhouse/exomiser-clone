@@ -3,6 +3,16 @@ Message from @snewhouse: I have this here for convenience as https://exomiser.gi
 
 This is the README.md from http://data.monarchinitiative.org/exomiser/ where the latest version of Exomiser is hosted.
 
+```
+../
+6.0.0/                                             06-Feb-2017 22:04                   -
+7.2.1/                                             08-Aug-2017 10:32                   -
+README.md                                          10-Aug-2017 08:52               10232
+exomiser-cli-8.0.0-data.zip                        10-Aug-2017 08:52         10066043760
+exomiser-cli-8.0.0-distribution.zip                10-Aug-2017 08:52           233486228
+exomiser-cli-8.0.0.sha256                          10-Aug-2017 08:52                 196
+```
+
 All credit goes to the orginal developers.
 
 **citations**
