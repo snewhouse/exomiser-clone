@@ -1,5 +1,8 @@
 ## exomiser-clone
-Message from @snewhouse: I have this here for convenience as https://exomiser.github.io/Exomiser/ installation instructions is a little out of date.
+
+See [Installation](#Installation) for getting software and then the [Usage](#usage) section for info on running an analysis.
+
+>Message from @snewhouse: I have this here for convenience as https://exomiser.github.io/Exomiser/ installation instructions is a little out of date.
 
 This is the README.md from http://data.monarchinitiative.org/exomiser/ where the latest version of Exomiser is hosted.
 
@@ -12,8 +15,6 @@ exomiser-cli-8.0.0-data.zip                        10-Aug-2017 08:52         100
 exomiser-cli-8.0.0-distribution.zip                10-Aug-2017 08:52           233486228
 exomiser-cli-8.0.0.sha256                          10-Aug-2017 08:52                 196
 ```
-
-See [Installation](#Installation) for getting sofwtare and then the [Usage](#usage) section for info on running an analysis.
 
 All credit goes to the orginal developers.
 
